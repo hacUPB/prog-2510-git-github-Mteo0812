@@ -4,4 +4,9 @@ Nombre del estudiante: Mateo Ardila Angel
 Id.: 000481247
 
 # bitacora Mateo Ardila 
-en esta bitacora se incluyen la documentacion del trabjo en clase realizado semana a semana 
+en esta bitacora se incluyen la documentacion del trabjo en clase realizado semana a semana
+
+## tabla de contenido 
+[Carpeta de documentacion](prog-2510-git-github-Mt0812/docs/)
+
+
