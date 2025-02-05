@@ -4,22 +4,43 @@ Nombre del estudiante: Mateo Ardila Angel
 Id.: 000481247
 
 # Bitacora Mateo Ardila 
-en esta bitacora se incluyen la documentacion del trabjo en clase realizado semana a semana
+Este proyecto es un ejercicio para aprender a usar Git y GitHub organizando correctamente un proyecto.
 
-## Tabla de contenido 
+## Estructura del proyecto 
 
 ### 📂 Bitácora
 
 Puedes acceder al siguiente contenido de la bitácora:  
 [📜Docs](./docs/repositorio_local.md)
 [📌 Carpeta de src](./src/.gitignore)
-[⚡Imagenes](prog-2510-git-github-Mteo0812/imagens)
+[⚡Imagenes](./imagens)
 
 ## Instalacion 
 1. clonacion de este repositorio:
    git clone https://github.com/hcUPB/prog-2510-git-github-Mteo0812.git
 
+![Ejemplo de clonacion](../images/repo_clonado.png)
 
+## Imagenes de guia 
+**Procesos realizados en la creacion de la bitacora**
+*Acceder al directorio del repositorio clonado:*
+![Ejemplo de creaccion](../images/repo_creado.png)
+*crear la estrcutura del proyecto*
+![Estructura del proyecto](../images/Estructura.png)
+*creaccion de un codigo de fuente*
+![Creacion de codigo fuente](../images/src.png)
+*Como realizar un commit*
+![Ejemplo PRIMER COMMIT](../images/commit.png)
+*crear una carpeta de docs/ y agregar:*
+![Ejemplo de documentacion](../images/docs.png)
+*subir los cambios al repositorio remoto*
+![Ejemplo de como hacer un push](../images/push.png)
+*crear un archivo readme que indique el contenido de la bitacora*
+![Archivo readme](../images/readme.png)
+*Edicion de un archivo y creaccion de su contenido*
+![Readme editado](../images/readme_2.png)
+*como añadir imagnes*
+![Imagenes añadidas](../images/Imagenes.png)
 
 
 
