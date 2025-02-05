@@ -36,3 +36,9 @@ build/
 
 # Archivos generados por herramientas de documentación
 docs/_build/
+
+# Archivos innecesarios
+__pycache__/
+*.log
+*.tmp
+
