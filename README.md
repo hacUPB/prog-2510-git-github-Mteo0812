@@ -19,14 +19,14 @@ Puedes acceder al siguiente contenido de la bitácora:
 1. clonacion de este repositorio:
    git clone https://github.com/hcUPB/prog-2510-git-github-Mteo0812.git
 
-[Ejemplo de clonacion](../imagens/repo_clonado.png)
+![Ejemplo de clonacion](./imagens/repo_clonado.png)
 
 ## Imagenes de guia 
 
 ## **Procesos realizados en la creacion de la bitacora**
 
 # *Acceder al directorio del repositorio clonado:*
-![Ejemplo de creaccion](../imagens/repo_creado.png)
+[Ejemplo de creaccion](./imagens/repo_creado.png)
 
 ## *crear la estrcutura del proyecto*
 ![Estructura del proyecto](../imagens/Estructura.png)
