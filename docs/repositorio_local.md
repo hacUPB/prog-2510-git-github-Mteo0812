@@ -19,5 +19,5 @@
 ![Imagenes añadidas](./imagens/Imagenes.png)
 
 ### Subir los cambios al repositorio remoto
-![Ejemplo de como hacer un push](./imagens/push.png)
+![Ejemplo de como hacer un push](../imagens/push.png)
 
