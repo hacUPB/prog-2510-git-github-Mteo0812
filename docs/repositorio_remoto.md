@@ -10,7 +10,7 @@ Despues de crear un repositorio en GitHub, GitLab o Bitbucket, vincúlalo con:
 
 
 ## Control de ramas del repositorio 
-![Ramas del repositorio](../imagens/admin_ramas.png)
+![Ramas del repositorio](../imagens/Admin_ramas.png)
 
 ## Cambio de URL de repositorio remoto 
 ![Cambio url](../imagens/Cambiar_URL.png)
