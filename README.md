@@ -12,20 +12,17 @@ Este proyecto es un ejercicio para aprender a usar Git y GitHub organizando corr
 </div>
 Puedes acceder al siguiente contenido de la bitácora:  
 
-- Carpeta de documentos
+| Carpeta de documentos| 
+---------------------------------------------------------------------------------
+| [📜Repositorio local](./docs/repositorio_local.md) | 
+| [📜 Repositorio remoto](./docs/repositorio_remoto.md/) 
+| [📜 Uso de consola](./docs/uso_consola.md/)
 
-[📜Repositorio local](./docs/repositorio_local.md)
-    
-
-[📜 Repositorio remoto](./docs/repositorio_remoto.md/)
-
-[📜 Uso de consola](./docs/uso_consola.md/)
-- Carpeta de **src**
-    
-    [📌 Carpeta de src](./src/)
-- Carpeta de Imgenes
-    
-    [⚡Imagenes](./imagens)
+|Carpeta de **src**|
+-------------------
+| [📌 Carpeta de src](./src/) |
 
 
-
+| Carpeta de Imgenes |
+-------------------------
+[⚡Imagenes](./imagens)|
